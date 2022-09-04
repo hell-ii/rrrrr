@@ -1,19 +1,19 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wx33ba2da68422af67",
+"app_id": ""wx33ba2da68422af67,
 # 公众号appSecret
 "app_secret": "b7cd8371c1c12e8c29bf64b09e0eb213",
 # 模板消息id
-"template_id": "ioloJ7AKldX9DA15SF7Of7-nJdpXfQUbkYPG7SeL6eE",
+"template_id": "ajHo_XvjvcUqWpII7KguEA60Eh7Rhys-TWdvKklxfZI",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oz60m6uWce-kvGJBSoRpE6I4vHtE"],
+"user": ["b7cd8371c1c12e8c29bf64b09e0eb213"],
 
 # 信息配置
 # 和风天气apikey
 "weather_key": "7c31d329a5e84f42a186c6f4d578e18b",
 # 天行数据apikey
-"tian_api": "4f63d0d971b36bd5a45d730e2042d9d8",
+"tian_api": ""4f63d0d971b36bd5a45d730e2042d9d8,
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "金水区",
 # 生日1
