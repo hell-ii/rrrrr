@@ -22,8 +22,8 @@
 "birthday2": {"name": "过年", "birthday": "r2023-01-01"},
 # 互联网相遇的日子，格式同上
 "love_date": "2022-09-24",
-# 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "要记得按时吃饭，按时喝水。乖乖长大呀！",
-# 金句英文
-"note_en": "Eat on time, drink on time. Grow Up!"
+# 金句英文，如果为空，默认会读取金山的每日金句
+"note_eh": "Eat on time, drink on time. Grow Up!",
+# 金句中文
+"note_cn": "要记得按时吃饭，按时喝水。乖乖长大呀！"
 }
