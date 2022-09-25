@@ -25,5 +25,5 @@
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "要记得按时吃饭，按时喝水。乖乖长大呀！",
 # 金句英文
-"note_en": ""
+"note_en": "Eat on time, drink on time. Grow Up!"
 }
